@@ -25,7 +25,7 @@ public class FindMissingNumber
 					big=arr[i+1];
 				}
 			}
-			System.out.println("SmallNumber ::"+small);
+			System.out.println("SmallNumBer ::"+small);
 			System.out.println("BigNumBer ::"+big);
 			
 			Arrays.sort(arr);
