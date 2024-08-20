@@ -26,7 +26,7 @@ public class FindMissingNumber
 				}
 			}
 			System.out.println("SmallNumber ::"+small);
-			System.out.println("BigNumber ::"+big);
+			System.out.println("BigNumBer ::"+big);
 			
 			Arrays.sort(arr);
 			List<Integer> asList = Arrays.asList(arr);
